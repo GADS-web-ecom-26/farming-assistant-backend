@@ -8,8 +8,21 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "^4.16.4",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.4"
-  }
+  },
+  "description": "# Project Overview  The project seeks to create an eCommerce platform that provides a farmer with greater profitability of their products and accessibility of agricultural products to consumers.",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GADS-web-ecom-26/farming-assistant-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GADS-web-ecom-26/farming-assistant-backend/issues"
+  },
+  "homepage": "https://github.com/GADS-web-ecom-26/farming-assistant-backend#readme"
 }
